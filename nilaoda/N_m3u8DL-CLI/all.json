@@ -63,7 +63,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 690176,
-        "download_count": 19177,
+        "download_count": 19197,
         "created_at": "2021-03-25T15:13:28Z",
         "updated_at": "2021-03-25T15:13:31Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.7/N_m3u8DL-CLI_v2.9.7.exe"
@@ -97,7 +97,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6154602,
-        "download_count": 33714,
+        "download_count": 33755,
         "created_at": "2021-03-25T15:46:49Z",
         "updated_at": "2021-03-25T15:46:54Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.7/N_m3u8DL-CLI_v2.9.7_with_ffmpeg_and_SimpleG.zip"
@@ -183,7 +183,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 689664,
-        "download_count": 3731,
+        "download_count": 3732,
         "created_at": "2021-03-04T05:05:53Z",
         "updated_at": "2021-03-04T05:05:57Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.6/N_m3u8DL-CLI_v2.9.6.exe"
@@ -217,7 +217,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6157016,
-        "download_count": 5781,
+        "download_count": 5783,
         "created_at": "2021-03-04T05:06:01Z",
         "updated_at": "2021-03-04T05:06:03Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.6/N_m3u8DL-CLI_v2.9.6_with_ffmpeg_and_SimpleG.zip"
@@ -445,7 +445,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 687616,
-        "download_count": 1676,
+        "download_count": 1677,
         "created_at": "2021-01-24T09:03:00Z",
         "updated_at": "2021-01-24T09:03:04Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.4/N_m3u8DL-CLI_v2.9.4.exe"
@@ -479,7 +479,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6155743,
-        "download_count": 3011,
+        "download_count": 3012,
         "created_at": "2021-01-24T09:03:20Z",
         "updated_at": "2021-01-24T09:03:23Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.4/N_m3u8DL-CLI_v2.9.4_with_ffmpeg_and_SimpleG.zip"
@@ -553,7 +553,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 685056,
-        "download_count": 1207,
+        "download_count": 1208,
         "created_at": "2021-01-18T12:37:54Z",
         "updated_at": "2021-01-18T12:37:57Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.3/N_m3u8DL-CLI_v2.9.3.exe"
@@ -587,7 +587,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6174471,
-        "download_count": 2157,
+        "download_count": 2158,
         "created_at": "2021-01-18T12:38:12Z",
         "updated_at": "2021-01-18T12:38:16Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.3/N_m3u8DL-CLI_v2.9.3_with_ffmpeg_and_SimpleG.zip"
@@ -661,7 +661,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 685056,
-        "download_count": 250,
+        "download_count": 251,
         "created_at": "2021-01-17T17:56:10Z",
         "updated_at": "2021-01-17T17:56:14Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.2/N_m3u8DL-CLI_v2.9.2.exe"
@@ -695,7 +695,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6174455,
-        "download_count": 442,
+        "download_count": 443,
         "created_at": "2021-01-17T17:59:15Z",
         "updated_at": "2021-01-17T17:59:21Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.2/N_m3u8DL-CLI_v2.9.2_with_ffmpeg_and_SimpleG.zip"
@@ -769,7 +769,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 663040,
-        "download_count": 3006,
+        "download_count": 3007,
         "created_at": "2020-12-29T15:23:02Z",
         "updated_at": "2020-12-29T15:23:05Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.1/N_m3u8DL-CLI_v2.9.1.exe"
@@ -803,7 +803,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6167467,
-        "download_count": 4796,
+        "download_count": 4797,
         "created_at": "2020-12-29T15:24:54Z",
         "updated_at": "2020-12-29T15:25:01Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.1/N_m3u8DL-CLI_v2.9.1_with_ffmpeg_and_SimpleG.zip"
@@ -877,7 +877,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 659968,
-        "download_count": 3051,
+        "download_count": 3052,
         "created_at": "2020-12-06T13:33:00Z",
         "updated_at": "2020-12-06T13:33:04Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.0/N_m3u8DL-CLI_v2.9.0.exe"
@@ -911,7 +911,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6166261,
-        "download_count": 5185,
+        "download_count": 5186,
         "created_at": "2020-12-06T13:33:11Z",
         "updated_at": "2020-12-06T13:33:15Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.0/N_m3u8DL-CLI_v2.9.0_with_ffmpeg_and_SimpleG.zip"
@@ -2525,7 +2525,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6281449,
-        "download_count": 4485,
+        "download_count": 4486,
         "created_at": "2020-07-19T01:31:29Z",
         "updated_at": "2020-07-19T01:31:33Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.7.1/N_m3u8DL-CLI_v2.7.1_with_ffmpeg_and_SimpleG.zip"
