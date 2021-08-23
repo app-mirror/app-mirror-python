@@ -1,5 +1,46 @@
 [
   {
+    "url": "https://api.github.com/repos/ColaSign/haidan/releases/48251668",
+    "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/48251668/assets",
+    "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/48251668/assets{?name,label}",
+    "html_url": "https://github.com/ColaSign/haidan/releases/tag/0.0.6",
+    "id": 48251668,
+    "author": {
+      "login": "jokin1999",
+      "id": 16080182,
+      "node_id": "MDQ6VXNlcjE2MDgwMTgy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16080182?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jokin1999",
+      "html_url": "https://github.com/jokin1999",
+      "followers_url": "https://api.github.com/users/jokin1999/followers",
+      "following_url": "https://api.github.com/users/jokin1999/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jokin1999/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jokin1999/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jokin1999/subscriptions",
+      "organizations_url": "https://api.github.com/users/jokin1999/orgs",
+      "repos_url": "https://api.github.com/users/jokin1999/repos",
+      "events_url": "https://api.github.com/users/jokin1999/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jokin1999/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "node_id": "MDc6UmVsZWFzZTQ4MjUxNjY4",
+    "tag_name": "0.0.6",
+    "target_commitish": "master",
+    "name": "0.0.6",
+    "draft": false,
+    "prerelease": false,
+    "created_at": "2021-08-23T01:32:06Z",
+    "published_at": "2021-08-23T01:34:15Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ColaSign/haidan/tarball/0.0.6",
+    "zipball_url": "https://api.github.com/repos/ColaSign/haidan/zipball/0.0.6",
+    "body": "- 更新脚本"
+  },
+  {
     "url": "https://api.github.com/repos/ColaSign/haidan/releases/28809520",
     "assets_url": "https://api.github.com/repos/ColaSign/haidan/releases/28809520/assets",
     "upload_url": "https://uploads.github.com/repos/ColaSign/haidan/releases/28809520/assets{?name,label}",
