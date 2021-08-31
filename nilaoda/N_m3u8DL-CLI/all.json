@@ -63,7 +63,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 690176,
-        "download_count": 27796,
+        "download_count": 27824,
         "created_at": "2021-03-25T15:13:28Z",
         "updated_at": "2021-03-25T15:13:31Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.7/N_m3u8DL-CLI_v2.9.7.exe"
@@ -97,7 +97,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6154602,
-        "download_count": 49963,
+        "download_count": 50002,
         "created_at": "2021-03-25T15:46:49Z",
         "updated_at": "2021-03-25T15:46:54Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.7/N_m3u8DL-CLI_v2.9.7_with_ffmpeg_and_SimpleG.zip"
@@ -108,15 +108,15 @@
     "body": "下载器更新：\r\n* 修复enableAudioOnly且下载MPD文件时留下冗余(Audio)文件夹的情况\r\n* 适配AppleTV资源 (解密时，使用 **--key 1:KEY** 形式)\r\n* 优化下载监控\r\n* 为下载分片增加了自动重试机制(3次), 一定程度上增强本工具的使用体验\r\n\r\n---\r\n\r\nSimpleG更新：\r\n* 支持MPD批量",
     "reactions": {
       "url": "https://api.github.com/repos/nilaoda/N_m3u8DL-CLI/releases/40422372/reactions",
-      "total_count": 65,
-      "+1": 46,
+      "total_count": 71,
+      "+1": 47,
       "-1": 0,
-      "laugh": 5,
-      "hooray": 1,
+      "laugh": 6,
+      "hooray": 2,
       "confused": 0,
-      "heart": 8,
-      "rocket": 2,
-      "eyes": 3
+      "heart": 9,
+      "rocket": 3,
+      "eyes": 4
     }
   },
   {
@@ -183,7 +183,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 689664,
-        "download_count": 4370,
+        "download_count": 4372,
         "created_at": "2021-03-04T05:05:53Z",
         "updated_at": "2021-03-04T05:05:57Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.6/N_m3u8DL-CLI_v2.9.6.exe"
@@ -217,7 +217,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 6157016,
-        "download_count": 6505,
+        "download_count": 6507,
         "created_at": "2021-03-04T05:06:01Z",
         "updated_at": "2021-03-04T05:06:03Z",
         "browser_download_url": "https://github.com/nilaoda/N_m3u8DL-CLI/releases/download/2.9.6/N_m3u8DL-CLI_v2.9.6_with_ffmpeg_and_SimpleG.zip"
