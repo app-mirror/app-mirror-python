@@ -63,7 +63,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 2036391,
-        "download_count": 76,
+        "download_count": 77,
         "created_at": "2021-09-12T19:03:55Z",
         "updated_at": "2021-09-12T19:03:55Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109130303/Country-lite.mmdb"
@@ -97,7 +97,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6314897,
-        "download_count": 102,
+        "download_count": 104,
         "created_at": "2021-09-12T19:03:55Z",
         "updated_at": "2021-09-12T19:03:55Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109130303/Country.mmdb"
@@ -131,7 +131,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 13,
-        "download_count": 71,
+        "download_count": 72,
         "created_at": "2021-09-12T19:03:55Z",
         "updated_at": "2021-09-12T19:03:55Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109130303/version"
@@ -563,7 +563,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7650056,
-        "download_count": 121,
+        "download_count": 122,
         "created_at": "2021-08-03T07:17:48Z",
         "updated_at": "2021-08-03T07:17:48Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/20210803/china_ip_list.mmdb"
