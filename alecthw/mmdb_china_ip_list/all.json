@@ -63,7 +63,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 2162541,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2021-09-27T08:00:47Z",
         "updated_at": "2021-09-27T08:00:48Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109271559/Country-lite.mmdb"
@@ -97,7 +97,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6405182,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2021-09-27T08:00:47Z",
         "updated_at": "2021-09-27T08:00:48Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109271559/Country.mmdb"
@@ -131,7 +131,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 13,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2021-09-27T08:00:47Z",
         "updated_at": "2021-09-27T08:00:47Z",
         "browser_download_url": "https://github.com/alecthw/mmdb_china_ip_list/releases/download/202109271559/version"
@@ -139,7 +139,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/alecthw/mmdb_china_ip_list/tarball/202109271559",
     "zipball_url": "https://api.github.com/repos/alecthw/mmdb_china_ip_list/zipball/202109271559",
-    "body": ""
+    "body": "1. 添加clang.cn数据\r\n2. 添加ipv6数据，使用的是clang.cn的all_cn_ipv6.txt"
   },
   {
     "url": "https://api.github.com/repos/alecthw/mmdb_china_ip_list/releases/50278386",
